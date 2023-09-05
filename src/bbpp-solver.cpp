@@ -1,3 +1,4 @@
 #include <bbpp-solver.h>
 
-void solve() {}
+void solve() {
+}
