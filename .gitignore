@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# IDE-specific
+.vs
+
+# Build-related
+out
